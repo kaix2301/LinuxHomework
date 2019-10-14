@@ -5,5 +5,6 @@ branch-proj1
 	mysort,syssort
 	read and write file
 	read and write file from one adress
-branch-week6
-	
+branch-week
+	branch-staticlib
+		staticlib,test-samedir,test-differentedir
